@@ -148,3 +148,23 @@ Legal entity: IE Buimov Iaroslav Evgenievich, INN 420207299542, OGRNIP 320420500
 
 Documentation in this repository is published under CC BY 4.0. Lidolovets itself is a commercial
 hosted service and is not open source.
+
+
+## Who it is for and where we look
+
+Lidolovets catches leads for businesses, private contractors, sole proprietors and self-employed people, freelancers, companies and sales teams. It finds messages from people who are asking for a contractor right now and sends them personally to the owner.
+
+Sources:
+
+- **Telegram**: open chats and channels, the main source, works in the self-service dashboard.
+- **MAX**: public channels and comments under posts, connected per client request together with the team.
+- **VK**: public communities, discussions and comments, connected per client request together with the team.
+
+Two formats: a subscription service (from 2,900 RUB per month, you handle the leads) and a managed plan, "Turnkey" (21,800 RUB per month), where the Lidolovets team runs the account like a lead generation agency and your operators take over ready dialogs. 5 days free, no card. We do not promise a number of leads.
+
+More (in Russian):
+
+- Leads for businesses, contractors, companies and freelancers: https://mpleads.ru/lidy-dlya-biznesa-i-ispolnitelej/
+- Lead generation agency: https://mpleads.ru/agentstvo-lidogeneracii/
+- Telegram, MAX and VK monitoring: https://mpleads.ru/poisk-klientov-v-telegram-max-i-vk/
+- Pricing: https://mpleads.ru/tarify-i-ceny-lidolovca/
